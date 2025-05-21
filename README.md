@@ -13,3 +13,5 @@ Multiple season simulations to analyze average performance
 Head-to-head two-leg match prediction with penalties when needed
 
 Additionally, a short presentation (in English) explaining the project concept and approach is included — it's highly recommended to check it out if you're interested in how the probabilistic model was designed and calibrated!
+
+Football has always been my passion, and I’m planning to expand this project and work on more football-related data science projects in the future.
